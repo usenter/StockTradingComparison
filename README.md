@@ -2,7 +2,7 @@
 
 ### Overview ###
 
-Run the code in your preferred Python environment. You can add different methods as you prefer, or delete pre-existing ones that aren't of interest. Graphs will be generated to help you visually compare the performance of each method backtested against 10 years of data. A graph of the current methods implemented is provided. An XIRR rate will also be [calculated]([url](https://github.com/Anexen/pyxirr)) to help compare the method's performance against a savings account deposit.
+Run the code in your preferred Python environment. You can add different methods as you prefer, or delete pre-existing ones that aren't of interest. Graphs will be generated to help you visually compare the performance of each method backtested against 10 years of data. A graph of the current methods implemented is provided. An XIRR rate will also be [calculated](https://github.com/Anexen/pyxirr "Library Used For Calculations") to help compare the method's performance against a savings account deposit.
 
 
 Some things to note:
