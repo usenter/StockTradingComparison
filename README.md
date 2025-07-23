@@ -1,4 +1,4 @@
-# StockTradingComparison
+# Stock Trading Methods Comparison
 
 ### Overview ###
 
