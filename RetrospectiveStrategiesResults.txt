@@ -1,0 +1,30 @@
+Daily trade for VOO from 2015-06-01 00:00:00 to 2025-06-26 00:00:00 
+Starting balance: $1000.00
+Final balance: $1859.75
+Profit: $859.75
+Profit percentage: 85.97%
+
+Smart daily trade for VOO from 2015-06-01 00:00:00 to 2025-06-26 00:00:00 
+Starting balance: $1000.00
+Final balance: $2394.81
+Profit: $1394.81
+Profit percentage: 139.48%
+
+Trend following for VOO from 2015-06-01 00:00:00 to 2025-06-26 00:00:00 
+Starting balance: $1000.00
+Final balance: $2199.49
+Profit: $1199.49
+Profit percentage: 119.95%
+
+Passive trade for VOO from 2015-06-01 00:00:00 to 2025-06-26 00:00:00 
+Starting balance: $1000.00
+Final balance: $2904.55
+Profit: $1904.55
+Profit percentage: 190.45%
+
+60-day MA for VOO from 2015-06-01 00:00:00 to 2025-06-26 00:00:00 
+Starting balance: $1000.00
+Final balance: $1993.53
+Profit: $993.53
+Profit percentage: 99.35%
+
